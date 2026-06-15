@@ -122,7 +122,7 @@ attendance_tracker_myproject/
 
 ---
 
-## 🚀 Quick Start Demo
+##  Quick Start Demo
 
 ```bash
 chmod +x setup_project.sh
@@ -166,3 +166,7 @@ Python 3.12.3
 * Configuration values can be customized during setup.
 * Existing reports are archived before new reports are generated.
 * The signal trap prevents incomplete project folders from being left behind if setup is interrupted.
+  
+  ## Video Demo
+
+  https://drive.google.com/file/d/1NbS7LfbczcwRalhwPt5LzKKKtiUkRaTS/view?usp=drive_link
