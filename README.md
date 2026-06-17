@@ -168,5 +168,4 @@ Python 3.12.3
 * The signal trap prevents incomplete project folders from being left behind if setup is interrupted.
   
   ## Video Demo
-
-  https://drive.google.com/file/d/1NbS7LfbczcwRalhwPt5LzKKKtiUkRaTS/view?usp=drive_link
+https://drive.google.com/file/d/1wtUVtGCml2VTf8hfmqPxCRZYYoHhqRLR/view?usp=drive_link
